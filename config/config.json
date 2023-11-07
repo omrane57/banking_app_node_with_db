@@ -3,7 +3,7 @@
     "username": "postgres",
     "password": "Om@2401",
     "database": "banking_app",
-    "host": "127.0.0.1",
+    "host": "host.docker.internal",
     "dialect": "postgres",
     "port":"5432"
   },
@@ -11,7 +11,7 @@
     "username": "postgres",
     "password": "Om@2401",
     "database": "banking_app",
-    "host": "127.0.0.1",
+    "host": "host.docker.internal",
     "dialect": "postgres",
     "port":"5432"
   },
@@ -19,7 +19,7 @@
     "username": "postgres",
     "password": "Om@2401",
     "database": "banking_app",
-    "host": "127.0.0.1",
+    "host": "host.docker.internal",
     "dialect": "postgres",
     "port":"5432"
   }
